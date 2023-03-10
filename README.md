@@ -18,4 +18,4 @@ Dưới đây là ảnh chụp màn hình ứng dụng (trên iPhone):
 <br/>
 ![Screenshot](https://github.com/horobix/zens-intern-test/blob/master/Mobile/screenshot.jpg?raw=true)
 
-Code ứng dụng nằm trong thư mục **[Mobile](https://github.com/horobix/zens-intern-test/tree/master/Algorithm)**
+Code ứng dụng nằm trong thư mục **[Mobile](https://github.com/horobix/zens-intern-test/tree/master/Mobile)**
